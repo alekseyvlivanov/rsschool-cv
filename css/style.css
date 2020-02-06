@@ -1,6 +1,9 @@
 body {
   box-sizing: border-box;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #24292e;
+  line-height: 1.5;
+  padding: 1em;
 }
 
 .container {
@@ -14,4 +17,34 @@ body {
   height: 120;
   border-radius: 50%;
   padding: 5px 40px;
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+h2 {
+  font-size: 1.5em;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+a {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+strong {
+  font-weight: 600;
+}
+
+.experience li {
+  margin-bottom: 1em;
+}
+
+.period,
+.degree {
+  font-style: italic;
 }
