@@ -1,0 +1,17 @@
+body {
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+  margin: auto;
+  max-width: 1024px;
+}
+
+.container img {
+  float: right;
+  width: 120;
+  height: 120;
+  border-radius: 50%;
+  padding: 5px 40px;
+}

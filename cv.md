@@ -1,7 +1,6 @@
 # Aleksey Ivanov &ndash; Javascript Developer
 
 - A Javascript developer who specializes in building RESTful API with Node.js, Express, and MongoDB
-  Experience working with Linux, various databases, Python, PHP
 - 10+ years of experience as a software engineer in telecom and logistic
 - Open to any job opportunities to spread myself in Frontend/Fullstack
 
@@ -41,11 +40,11 @@
 
 ## Code Examples
 
-- Designer Portfolio: [Repo](https://github.com/alekseyvlivanov/portfolio-website) - [Demo](https://portfolio.chessiah.xyz/)
-- Presentation: [Repo](https://github.com/alekseyvlivanov/presentation-website) - [Demo](https://presentation.chessiah.xyz/)
-- Knowledge Timeline: [Repo](https://github.com/alekseyvlivanov/knowledge-timeline) - [Demo](https://timeline.chessiah.xyz/)
-- Hotel Site: [Repo](https://github.com/alekseyvlivanov/hotel-website) - [Demo](https://hotelbt.chessiah.xyz/)
-- Hamburger Menu: [Repo](https://github.com/alekseyvlivanov/hamburger-menu) - [Demo](https://hamburger.chessiah.xyz/)
-- Financial Company: [Repo](https://github.com/alekseyvlivanov/edgeledger-website) - [Demo](https://edgeledger.chessiah.xyz/)
-- CSS Dropdown Menu: [Repo](https://github.com/alekseyvlivanov/dropdown-menu) - [Demo](https://dropdown.chessiah.xyz/)
-- News Site: [Repo](https://github.com/alekseyvlivanov/newsgrid-website) - [Demo](https://newsgrid.chessiah.xyz/)
+- Designer Portfolio: [Repo](https://github.com/alekseyvlivanov/portfolio-website) &ndash; [Demo](https://portfolio.chessiah.xyz)
+- Presentation: [Repo](https://github.com/alekseyvlivanov/presentation-website) &ndash; [Demo](https://presentation.chessiah.xyz)
+- Knowledge Timeline: [Repo](https://github.com/alekseyvlivanov/knowledge-timeline) &ndash; [Demo](https://timeline.chessiah.xyz)
+- Hotel Site: [Repo](https://github.com/alekseyvlivanov/hotel-website) &ndash; [Demo](https://hotelbt.chessiah.xyz)
+- Hamburger Menu: [Repo](https://github.com/alekseyvlivanov/hamburger-menu) &ndash; [Demo](https://hamburger.chessiah.xyz)
+- Financial Company: [Repo](https://github.com/alekseyvlivanov/edgeledger-website) &ndash; [Demo](https://edgeledger.chessiah.xyz)
+- CSS Dropdown Menu: [Repo](https://github.com/alekseyvlivanov/dropdown-menu) &ndash; [Demo](https://dropdown.chessiah.xyz)
+- News Site: [Repo](https://github.com/alekseyvlivanov/newsgrid-website) &ndash; [Demo](https://newsgrid.chessiah.xyz)
